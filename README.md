@@ -31,6 +31,6 @@ Please feel free to contact me to kevinml@lcg.unam.mc or on [Twitter](https://tw
 [![GitHub KevinMLanderos](https://img.shields.io/github/followers/KevinMLanderos?label=follow&style=social)](https://github.com/KevinMLanderos)
 
 
-[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMLanderos&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMLanderos&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)  
 [![Kevin's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=KevinMLanderos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
