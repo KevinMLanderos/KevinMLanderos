@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 -->
 
 I am an enthusiastic undergrad students who is passionate about genomics.
@@ -23,6 +24,10 @@ I am an enthusiastic undergrad students who is passionate about genomics.
   
 - 📫 How to reach me ?  
 Please feel free to contact me to kevinml@lcg.unam.mc or on [Twitter](https://twitter.com/KevsGenomic).
+
+
+[![Twitter: KevsGenomic](https://img.shields.io/twitter/follow/KevsGenomic?style=social)](https://twitter.com/KevsGenomic)
+[![GitHub KevinMLanderos](https://img.shields.io/github/followers/KevinMLanderos?label=follow&style=social)](https://github.com/KevinMLanderos)
 
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMLanderos&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
