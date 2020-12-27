@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMLanderos&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 I am an enthusiastic undergrad students who is passionate about genomics.
@@ -31,6 +32,5 @@ Please feel free to contact me to kevinml@lcg.unam.mc or on [Twitter](https://tw
 
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMLanderos&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Kevin's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs?username=KevinMLanderos&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
