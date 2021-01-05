@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMLanderos&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-I am an enthusiastic undergrad students who is passionate about genomics.
+I am an enthusiastic undergrad student who is passionate about genomics.
 - 🔭 I’m currently interested in:
   - Immunology
   - Epigenetics
