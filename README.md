@@ -24,7 +24,7 @@ I am an enthusiastic undergrad student who is passionate about genomics.
   - Diseases (in general)
   
 - 📫 How to reach me ?  
-Please feel free to contact me to kevinml@lcg.unam.mc or on [Twitter](https://twitter.com/KevsGenomic).
+Please feel free to contact me to kevinml@lcg.unam.mx or on [Twitter](https://twitter.com/KevsGenomic).
 
 
 [![Twitter: KevsGenomic](https://img.shields.io/twitter/follow/KevsGenomic?style=social)](https://twitter.com/KevsGenomic)
