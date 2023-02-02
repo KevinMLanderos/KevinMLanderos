@@ -21,7 +21,7 @@ I am an enthusiastic undergrad student who is passionate about genomics.
   - Immunology
   - Epigenetics
   - Bioinformathics
-  - Diseases (in general)
+  - Cancer
   
 - 📫 How to reach me ?  
 Please feel free to contact me to kevinml@lcg.unam.mx or on [Twitter](https://twitter.com/KevsGenomic).
